@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS, JavaScript**
 
-- 🔭 I’m currently working on **SONIX|A voice enabled system navigator**
+- 🔭 I’m currently working on **SONIX | A voice enabled system navigator**
 
 - 👯 I’m looking to collaborate on **Real time/Innovative projects**
 
