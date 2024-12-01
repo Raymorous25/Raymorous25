@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Databases, Backend**
 
-- 📫 Reach me **raymorous999@gmail.com**
+- 📫 Reach me at **raymorous999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
